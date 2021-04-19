@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hello 👋
+I'm Breno Jesus, software developer, futurist, designer, and CEO of Inspr
 
-<!--
-**brenordr/brenordr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work
+Some projects I'm involved on include:
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://inspr.com">
+        <img src="./inspr.png" width="24px"></td>
+    </a>
+    <td>
+        <a href="https://github.com/inspr/inspr">github.com/inspr/inspr</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Primal</td>
+     <td>
+        <a href="https://github.com/inspr/primal">github.com/inspr/primal</a>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Computer Science
+    - Computer Graphics
+    - Cryptocurrency
+    - Security
+    - Networks
+    - Artificial Intelligence
+
+- Mathmatics
+    - Riemann Geometry
+    - Graphs and Hypergraphs
+    - Combinatorics
+    - Optimization
+    - Probability
+    
+- And More...
+    - Economics
+    - Engineering 
